@@ -1,7 +1,3 @@
-# Assignment4
-
-Nama Anggota:
-1. Annisa Falerina
-2. Nada Razani
-
-Tugas 4 Mata kuliah Mobile Computing: Coffee Catalog App
+#Milestone 1
+Milestone 1 (today, October 6th)
+• Create XML of all fragments
